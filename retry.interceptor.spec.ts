@@ -1,3 +1,5 @@
+/* If you're not using ngx-translate, simply remove lines 13, 30 thru 36, and 54. */
+
 import {fakeAsync, TestBed, tick} from '@angular/core/testing';
 
 import {HttpClientTestingModule, HttpTestingController} from '@angular/common/http/testing';
